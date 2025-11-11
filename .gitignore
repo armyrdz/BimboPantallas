@@ -2,8 +2,12 @@ BIMBO_SOFT_SENTADILLAS/Backup/*
 BIMBO_SOFT_SENTADILLAS/AbdominalesLagartijas_Bimbo.*.toe
 BIMBO_SOFT_SENTADILLAS/Estira_Bimbo.*.toe
 *.png
+*.jpg
 *.mov
 *.mp4
 *.rar
+*.wav
 *.dmp
 BIMBO_SOFT_SENTADILLAS/MediaPipe.tox
+BIMBO_SOFT_SENTADILLAS/assets/tools/MediaPipe.tox
+*.png
